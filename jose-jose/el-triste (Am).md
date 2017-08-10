@@ -2,7 +2,7 @@
 
 * Artist: José José
 * Album: El Triste
-* Key: Em
+* Key: Am
 * Original key: Cm
 
 ```txt
