@@ -27,7 +27,7 @@ Y cada día veinticuatro vivo
                             Am  A7
 Cómo el primer momento de amor.
 
-(Puente)
+(Bridge)
                         Dm
 La vida tiene muchas sorpresas
 
@@ -89,7 +89,7 @@ Y cada día veinticuatro sigo
                      Am  A7
 Reconfirmándolo, mi amor.
 
-(Puente)
+(Bridge)
 
 (Chorus)
         Dm
