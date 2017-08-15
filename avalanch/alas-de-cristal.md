@@ -14,7 +14,7 @@ Am       G             F
    Aprendiste a disfrutar
 Am        G            F
    Las caricias de la vida
-Am        F          F
+Am        G          F
    Sin pararte a pensar
       A#            Am   G    A#  G
 El dolor que podría ser caer
