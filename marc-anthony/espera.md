@@ -94,6 +94,7 @@ Cm   D#  G#  G7
 (Verse 3)
    Cm                    D#
 (Espera no podré sobrevivir)
+
 Si no estas junto a mí
           G#                        G7
 Como tu esperas que yo pueda vivir así
