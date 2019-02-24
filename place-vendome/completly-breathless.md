@@ -35,6 +35,7 @@ Whatever you do, you're leaving me
 Completely breathless
 
 (Verse 2)
+
 C              Am               Em    G
   I feel naked... I have no defense
 C               Am                 Em    G
