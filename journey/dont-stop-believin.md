@@ -5,9 +5,12 @@
 * Key: E
 
 ```txt
-(Intro)
+[Intro]
+
 E  B  C#m  A
 E  B  G#m  A
+
+[Verse 1]
 
 E           B
    Just a small town girl
@@ -22,12 +25,15 @@ C#m                     A
 E               B                   G#m    A
    He took the midnight train goin' anywhere
 
-(Interlude)
+[Interlude]
+
 E  B  C#m  A
 E  B  G#m  A
 
+[Verse 2]
+
 E                  B
-   A singer in a smokey room
+   A singer in a smoky room
 C#m                      A
    A smell of wine and cheap perfume
 E                         B
@@ -35,22 +41,26 @@ E                         B
         G#m             A
 It goes on and on, and on, and on
 
-(Chorus)
+[Bridge]
+
   A
 Strangers waiting
 E
-   Up and down the boulevard
+   Walking the boulevard
        A                        E
 Their shadows searching in the night
    A
-Streetlight people
+Streetlights, people
 E
    Living just to find emotion
 A                        B  E  B E A
 Hiding somewhere in the night
 
-(Interlude)
+[Interlude]
+
 E  B  C#m  A
+
+[Verse 3]
 
 E                   B
    Working hard to get my fill
@@ -69,11 +79,27 @@ E                 B
         C#m            A
 It goes on and on, and on, and on
 
-(Chorus)
+[Bridge]
 
-(Solo)
+  A
+Strangers waiting
+E
+   Walking the boulevard
+       A                        E
+Their shadows searching in the night
+   A
+Streetlights, people
+E
+   Living just to find emotion
+A                        B  E  B E A
+Hiding somewhere in the night
+
+[Solo]
+
 E  B  C#m  A
 E  B  G#m  A
+
+[Chorus]
 
  E            B
 Don't stop believin'
@@ -87,12 +113,12 @@ Don't stop believin'
 C#m      A
    Hold on
    E          B    G#m  A
-Streetlight people
+Streetlights, people
 
  E            B
 Don't stop believin'
 C#m                A
    Hold on to the feelin'
    E          B    G#m  A
-Streetlight people
+Streetlights, people
 ```
