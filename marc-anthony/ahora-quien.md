@@ -4,7 +4,7 @@
 * Album: Amar Sin Mentiras
 * Key: Em
 
-```
+```txt
 [Intro]
 
 Em
