@@ -5,11 +5,15 @@
 * Key: G
 
 ```txt
-(Intro)
+
+[Intro]
+
 G   D
 Am  Em
 G   D
 Am  Em
+
+[Verse 1]
 
    G                           D
 Hallé una flor, un día en el camino
@@ -20,6 +24,8 @@ Ya casi pálida, ahogada en un suspiro
          Am                      D
 Me la llevé a mi jardín para cuidarla
 
+[Verse 2]
+
           G                D
 Aquella flor de pétalos dormidos
           Am                   Em
@@ -29,7 +35,8 @@ Recuperó el color que había perdido
              Am          D           G     D
 Porque encontró un cuidador que la regara
 
-(Chorus)
+[Chorus]
+
 Em                       Bm
    Le fui poniendo un poquito de amor
 Em                        Bm
@@ -47,22 +54,26 @@ C                    G
 Am          D7       G
    Para que nunca se vaya
 
-(Interlude)
+[Interlude]
+
 G   D
 Am  Em
 G   D
 Am  Em
 
+[Verse 3]
+
     G                             D
 De aquella flor surgieron tantas cosas
-   Am                                Em
-Nació el amor que un día se había perdido
+   Am                            Em
+Nació el amor que ya se había perdido
           C                     G
 Y con la luz del sol se fue la sombra
           Am           D            G     D
 Y con la sombra la distancia y el olvido
 
-(Chorus)
+[Chorus]
+
 Em                       Bm
    Le fui poniendo un poquito de amor
 Em                        Bm
@@ -80,6 +91,8 @@ C                         G
 Am          D7             G C D G G
    Para que nunca se vaya
 
+[Bridge]
+
 C           D       G
   Para que nunca se vaya
 C           D       G
@@ -89,7 +102,8 @@ C           D       G
 C           D       G
   Para que nunca se vaya
 
-(Outro)
+[Outro]
+
                               C            D  G
 Le fui brindando cariño un poquito de amor
                               C           D  G
