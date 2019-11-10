@@ -56,6 +56,7 @@ I'm a crystal clear and true
 I'm your cairn and creed
 
 [Verse 3]
+
     Em
 You think that I'm a mountain
               Em
@@ -93,6 +94,7 @@ I'm a crystal clear and true
 I'm your cairn and creed
 
 [Bridge 1]
+
     Em                         Bm          F#m
 The mysteries of life take us high and low
              C#m              Em
